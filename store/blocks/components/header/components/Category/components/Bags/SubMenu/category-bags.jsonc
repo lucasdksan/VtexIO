@@ -1,0 +1,20 @@
+{
+    "vtex.menu@2.x:submenu#category-bags": {
+        "props": {
+            "width": "auto"
+        },
+        "children": [
+            "vtex.menu@2.x:menu#category-bags"
+        ]
+    },
+    
+    "vtex.menu@2.x:menu#category-bags": {
+        "props": {
+            "orientation": "vertical"
+        },
+        "children": [
+            "flex-layout.col#bags-1",
+            "flex-layout.col#bags-2"
+        ]
+    }
+}

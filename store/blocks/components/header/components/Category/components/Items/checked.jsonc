@@ -1,0 +1,16 @@
+{
+    "menu-item#checked": {
+        "props": {
+            "id": "menu-item-checked",
+            "type": "custom",
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "/checked",
+                "noFollow": false,
+                "tagTitle": "checked bags",
+                "text": "Checked Bags"
+            }
+        }
+    }
+}

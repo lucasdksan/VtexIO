@@ -1,0 +1,16 @@
+{
+    "menu-item#toiletry": {
+        "props": {
+            "id": "menu-item-toiletry",
+            "type": "custom",
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "/toiletry",
+                "noFollow": false,
+                "tagTitle": "Toiletry Bags",
+                "text": "Toiletry Bags"
+            }
+        }
+    }
+}

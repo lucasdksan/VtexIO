@@ -1,0 +1,14 @@
+{
+  "vtex.menu@2.x:menu#category-menu": {
+    "props": {
+      "experimentalOptimizeRendering": true
+    },
+    "children": [
+      "menu-item#bags",
+      "menu-item#fitness",
+      "menu-item#our-story",
+      "menu-item#our-railroad",
+      "menu-item#travel-accessories"
+    ]
+  }
+}

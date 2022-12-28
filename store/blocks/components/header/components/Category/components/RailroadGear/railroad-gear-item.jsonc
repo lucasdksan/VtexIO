@@ -1,0 +1,19 @@
+{
+    "menu-item#our-railroad": {
+        "props": {
+            "id": "menu-item-category-railroad",
+            "type": "custom",
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "/railroad-gear/",
+                "noFollow": false,
+                "tagTitle": "Railroad Gear",
+                "text": "Railroad Gear"
+            }
+        },
+        "blocks": [
+            "vtex.menu@2.x:submenu#category-railroad-gear"
+        ]
+    }
+}

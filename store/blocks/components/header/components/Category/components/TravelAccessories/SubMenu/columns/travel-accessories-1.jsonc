@@ -1,0 +1,26 @@
+{
+    "flex-layout.col#travel-accessories-1": {
+        "children": [
+            "vtex.menu@2.x:menu#travel-accessories"
+        ]
+    },
+
+    "vtex.menu@2.x:menu#travel-accessories": {
+        "props": {
+            "orientation": "vertical"
+        },
+        "children": [
+            "menu-item#carry-on",
+            "menu-item#personal-item",
+            "menu-item#backpacks",
+            "menu-item#everyday",
+            "menu-item#messenger",
+            "menu-item#briefcases",
+            "menu-item#duffls",
+            "menu-item#totels",
+            "menu-item#toiletry",
+            "menu-item#checked",
+            "menu-item#kit-bags"
+        ]
+    }
+}

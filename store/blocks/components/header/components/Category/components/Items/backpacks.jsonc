@@ -1,0 +1,16 @@
+{
+    "menu-item#backpacks": {
+        "props": {
+            "id": "menu-item-backpacks",
+            "type": "custom",
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "/backpacks",
+                "noFollow": false,
+                "tagTitle": "Backpacks",
+                "text": "Backpacks"
+            }
+        }
+    }
+}

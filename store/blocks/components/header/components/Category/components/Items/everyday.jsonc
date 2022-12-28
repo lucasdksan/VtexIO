@@ -1,0 +1,16 @@
+{
+    "menu-item#everyday": {
+        "props": {
+            "id": "menu-item-everyday",
+            "type": "custom",
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "/everyday",
+                "noFollow": false,
+                "tagTitle": "everyday",
+                "text": "Everyday Carry"
+            }
+        }
+    }
+}

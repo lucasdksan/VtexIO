@@ -1,0 +1,16 @@
+{
+    "menu-item#briefcases": {
+        "props": {
+            "id": "menu-item-briefcases",
+            "type": "custom",
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "/briefcases",
+                "noFollow": false,
+                "tagTitle": "Briefcases",
+                "text": "Briefcases"
+            }
+        }
+    }
+}

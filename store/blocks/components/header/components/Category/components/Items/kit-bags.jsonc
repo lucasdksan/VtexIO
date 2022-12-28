@@ -1,0 +1,16 @@
+{
+    "menu-item#kit-bags": {
+        "props": {
+            "id": "menu-item-kit-bags",
+            "type": "custom",
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "/kit-bags",
+                "noFollow": false,
+                "tagTitle": "Kit Bags",
+                "text": "Kit Bags"
+            }
+        }
+    }
+}

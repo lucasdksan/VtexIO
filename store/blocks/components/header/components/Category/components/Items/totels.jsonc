@@ -1,0 +1,16 @@
+{
+    "menu-item#totels": {
+        "props": {
+            "id": "menu-item-totels",
+            "type": "custom",
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "/totels",
+                "noFollow": false,
+                "tagTitle": "Totels",
+                "text": "Totels"
+            }
+        }
+    }
+}

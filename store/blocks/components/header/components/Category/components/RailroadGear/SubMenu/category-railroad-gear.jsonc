@@ -1,0 +1,20 @@
+{
+    "vtex.menu@2.x:submenu#category-railroad-gear": {
+        "props": {
+            "width": "auto"
+        },
+        "children": [
+            "vtex.menu@2.x:menu#category-railroad-gear"
+        ]
+    },
+    
+    "vtex.menu@2.x:menu#category-railroad-gear": {
+        "props": {
+            "orientation": "vertical"
+        },
+        "children": [
+            "flex-layout.col#railroad-gear-1",
+            "flex-layout.col#railroad-gear-2"
+        ]
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "flex-layout.col#bags-2": {
+        "children": [
+            "info-card#default"
+        ] 
+    }
+}

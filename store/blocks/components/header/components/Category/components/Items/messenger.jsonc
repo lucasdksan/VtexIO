@@ -1,0 +1,16 @@
+{
+    "menu-item#messenger": {
+        "props": {
+            "id": "menu-item-messenger",
+            "type": "custom",
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "/messenger",
+                "noFollow": false,
+                "tagTitle": "Messenger Bags",
+                "text": "Messenger Bags"
+            }
+        }
+    }
+}

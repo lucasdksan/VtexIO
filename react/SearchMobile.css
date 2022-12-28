@@ -1,0 +1,75 @@
+.searchMobileContainer {
+  display: flex;
+}
+
+.searchMobileContainer--visible {
+  justify-content: space-between;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  padding: 0 20px;
+  background-color: #fff;
+  z-index: 9;
+}
+
+.searchMobileContainer :global(.vtex-button__label) {
+  padding: 0 !important;
+  font-size: 0px !important;
+  line-height: 0px !important;
+}
+
+.searchMobileContainer .searchIcon {
+  display: none;
+}
+
+.searchMobileContainer--hidden :global(.vtex-button__label)::after {
+  content: '';
+  width: 24px;
+  height: 24px;
+  display: block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url(./assets/icons/icon-search-bar-button.svg);
+}
+
+.searchMobileContainer--visible
+  :global(.vtex-store-components-3-x-searchBarContainer) {
+  max-width: 100% !important;
+}
+
+.searchMobileContainer--visible :global(.vtex-input-prefix__group) {
+  width: 100% !important;
+}
+
+.searchMobileCloseButtonContainer {
+  position: relative;
+  margin-left: 10px;
+  background: #fafafa;
+  border-radius: 100px;
+}
+
+.searchMobileCloseButtonText {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  color: #303d4f;
+}
+
+.searchMobileAreaIcon {
+  background-image: url(./assets/icons/search.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@media (max-width: 280px) {
+  .searchMobileContainer--hidden {
+    margin-right: -15px;
+    align-items: center;
+    justify-content: center;
+  }
+}

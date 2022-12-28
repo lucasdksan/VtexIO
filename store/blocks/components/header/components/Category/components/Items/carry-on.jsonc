@@ -1,0 +1,16 @@
+{
+    "menu-item#carry-on": {
+        "props": {
+            "id": "menu-item-carry-on",
+            "type": "custom",
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "/carry-on",
+                "noFollow": false,
+                "tagTitle": "carry on",
+                "text": "carry On Bags"
+            }
+        }
+    }
+}

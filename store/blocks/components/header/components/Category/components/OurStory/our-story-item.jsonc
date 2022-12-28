@@ -1,0 +1,19 @@
+{
+    "menu-item#our-story": {
+        "props": {
+            "id": "menu-item-category-our-story",
+            "type": "custom",
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "/our-story/",
+                "noFollow": false,
+                "tagTitle": "Our Story",
+                "text": "Our Story"
+            }
+        },
+        "blocks": [
+            "vtex.menu@2.x:submenu#category-our-story"
+        ]
+    }
+}

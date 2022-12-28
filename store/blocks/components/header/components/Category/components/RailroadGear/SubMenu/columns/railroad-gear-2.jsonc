@@ -1,0 +1,7 @@
+{
+    "flex-layout.col#railroad-gear-2": {
+        "children": [
+            "info-card#default"
+        ] 
+    }
+}

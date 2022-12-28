@@ -1,0 +1,11 @@
+{
+    "logo#mobile": {
+        "props": {
+            "title": "Logo",
+            "href": "/",
+            "url": "https://storecomponents.vteximg.com.br/arquivos/store-theme-logo-mobile.png",
+            "width": "77.5",
+            "height": "27.5"
+        }
+    }
+}

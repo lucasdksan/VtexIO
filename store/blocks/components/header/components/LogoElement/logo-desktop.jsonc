@@ -1,0 +1,11 @@
+{
+    "logo#desktop": {
+        "props": {
+            "title": "Logo",
+            "href": "/",
+            "url": "assets/header/logoHeader.svg",
+            "width": "122",
+            "height": "80"
+        }
+    }
+}

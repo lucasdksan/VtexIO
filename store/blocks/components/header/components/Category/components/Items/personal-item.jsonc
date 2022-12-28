@@ -1,0 +1,16 @@
+{
+    "menu-item#personal-item": {
+        "props": {
+            "id": "menu-item-personal-item",
+            "type": "custom",
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "/personal-item",
+                "noFollow": false,
+                "tagTitle": "Personal Item",
+                "text": "Personal Item"
+            }
+        }
+    }
+}

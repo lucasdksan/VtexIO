@@ -1,0 +1,19 @@
+{
+    "menu-item#bags": {
+        "props": {
+            "id": "menu-item-category-bags",
+            "type": "custom",
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "/bags/",
+                "noFollow": false,
+                "tagTitle": "bags",
+                "text": "Bags"
+            }
+        },
+        "blocks": [
+            "vtex.menu@2.x:submenu#category-bags"
+        ]
+    }
+}

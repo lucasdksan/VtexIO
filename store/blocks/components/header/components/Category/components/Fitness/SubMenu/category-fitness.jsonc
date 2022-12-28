@@ -1,0 +1,20 @@
+{
+    "vtex.menu@2.x:submenu#category-fitness": {
+        "props": {
+            "width": "auto"
+        },
+        "children": [
+            "vtex.menu@2.x:menu#category-fitness"
+        ]
+    },
+    
+    "vtex.menu@2.x:menu#category-fitness": {
+        "props": {
+            "orientation": "vertical"
+        },
+        "children": [
+            "flex-layout.col#fitness-1",
+            "flex-layout.col#fitness-2"
+        ]
+    }
+}

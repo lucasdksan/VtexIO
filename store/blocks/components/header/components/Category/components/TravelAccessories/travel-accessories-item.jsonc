@@ -1,0 +1,19 @@
+{
+    "menu-item#travel-accessories": {
+        "props": {
+            "id": "menu-item-category-travel-accessories",
+            "type": "custom",
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "/travel-accessories/",
+                "noFollow": false,
+                "tagTitle": "Travel Accessories",
+                "text": "Travel Accessories"
+            }
+        },
+        "blocks": [
+            "vtex.menu@2.x:submenu#category-travel-accessories"
+        ]
+    }
+}

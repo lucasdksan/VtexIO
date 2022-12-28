@@ -1,0 +1,19 @@
+{
+    "menu-item#fitness": {
+        "props": {
+            "id": "menu-item-category-bags",
+            "type": "custom",
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "/fitness/",
+                "noFollow": false,
+                "tagTitle": "Fitness",
+                "text": "Fitness"
+            }
+        },
+        "blocks": [
+            "vtex.menu@2.x:submenu#category-fitness"
+        ]
+    }
+}

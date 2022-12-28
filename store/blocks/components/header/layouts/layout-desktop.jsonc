@@ -1,0 +1,8 @@
+{
+    "header-layout.desktop": {
+        "children": [
+            "top-bar",
+            "sticky-layout#4-desktop"
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "vtex.menu@2.x:submenu#category-travel-accessories": {
+        "props": {
+            "width": "auto"
+        },
+        "children": [
+            "vtex.menu@2.x:menu#category-travel-accessories"
+        ]
+    },
+    
+    "vtex.menu@2.x:menu#category-travel-accessories": {
+        "props": {
+            "orientation": "vertical"
+        },
+        "children": [
+            "flex-layout.col#travel-accessories-1",
+            "flex-layout.col#travel-accessories-2"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "menu-item#duffls": {
+        "props": {
+            "id": "menu-item-duffels",
+            "type": "custom",
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "/duffels",
+                "noFollow": false,
+                "tagTitle": "duffels",
+                "text": "Duffles"
+            }
+        }
+    }
+}

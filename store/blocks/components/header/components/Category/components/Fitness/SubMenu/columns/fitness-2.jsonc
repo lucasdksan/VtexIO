@@ -1,0 +1,7 @@
+{
+    "flex-layout.col#fitness-2": {
+        "children": [
+            "info-card#default"
+        ] 
+    }
+}
